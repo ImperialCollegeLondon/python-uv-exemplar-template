@@ -1,3 +1,5 @@
+"""Tests for the add function."""
+
 from python_uv_exemplar_template import add
 
 
