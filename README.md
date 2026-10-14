@@ -2,7 +2,7 @@
 
 This is an exemplar Python project template managed by `uv`.
 
-## Steps to reproduce this repo
+## Steps to reproduce this repository structure
 
 - Create an empty repository on GitHub with a suitable name (in this case,
   `python-uv-exemplar-template`).
