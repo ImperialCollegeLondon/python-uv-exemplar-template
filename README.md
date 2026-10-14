@@ -57,3 +57,10 @@ git add .
 git commit -m "Initial commit"
 git push origin main
 ```
+
+## Alternative approach
+
+You could also alternatively use the
+[instructions in the python-template](https://github.com/ImperialCollegeLondon/python-template#usage).
+This template includes all the bits and pieces of the infrastructure when used
+with the cookiecutter.
