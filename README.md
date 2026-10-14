@@ -14,11 +14,9 @@ This is an exemplar Python project template managed by `uv`.
 - Once inside the cloned repository directory, run `uv init --package` to
   initialize the project. This will create the necessary infrastructure like
   `pyproject.toml`, `src/python_uv_exemplar_template/`, and `.python-version`
-  files.
-
-(Note: For the above command to work, you need to have
-[`uv` installed](https://docs.astral.sh/uv/reference/installer/#the-uv-installer)
-on your system.)
+  files. (Note: For the above command to work, you need to have
+  [`uv` installed](https://docs.astral.sh/uv/reference/installer/#the-uv-installer)
+  on your system.)
 
 - Next run `uv add --dev pytest mypy pre-commit` and it will create the
   `uv.lock` file.
